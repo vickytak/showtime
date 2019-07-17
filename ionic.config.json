@@ -1,5 +1,7 @@
 {
   "name": "showtime",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
